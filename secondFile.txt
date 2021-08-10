@@ -7,4 +7,9 @@
 7 line
 9 line
 10 line another changes
+5 line changed
+6 line
+7 line
+9 line
+10 line changed
 
